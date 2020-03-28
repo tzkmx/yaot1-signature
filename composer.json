@@ -1,0 +1,21 @@
+{
+    "name": "jefrancomix/yaotl1-signature",
+    "type": "project",
+    "homepage": "https://github.com/tzkmx/yaotl1-signature",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jesus Franco Martinez",
+            "email": "jefrancomix@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Apantle\\Yaot1\\": "src/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    }
+}
